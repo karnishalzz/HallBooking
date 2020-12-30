@@ -1,0 +1,17 @@
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\HallBooking_BusinessLayer.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\HallBooking_BusinessLayer.pdb
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\HallBooking_DataLayer.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\HallBooking_Model.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\EntityFramework.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\HallBooking_DataLayer.pdb
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\HallBooking_DataLayer.dll.config
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\HallBooking_Model.pdb
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\HallBooking_Model.dll.config
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\EntityFramework.xml
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\obj\Debug\HallBooking_BusinessLayer.csprojAssemblyReference.cache
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\obj\Debug\HallBooking_BusinessLayer.csproj.CoreCompileInputs.cache
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\obj\Debug\HallBooking_BusinessLayer.csproj.CopyComplete
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\obj\Debug\HallBooking_BusinessLayer.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\obj\Debug\HallBooking_BusinessLayer.pdb
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,12 @@
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\bin\Debug\HallBooking_Model.dll.config
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\bin\Debug\HallBooking_Model.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\bin\Debug\HallBooking_Model.pdb
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\bin\Debug\EntityFramework.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\bin\Debug\EntityFramework.xml
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\obj\Debug\HallBooking_Model.csproj.CoreCompileInputs.cache
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\obj\Debug\HallBooking_Model.csproj.CopyComplete
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\obj\Debug\HallBooking_Model.dll
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\obj\Debug\HallBooking_Model.pdb
+F:\DotNetProjects\HallBooking_WinForm\HallBooking_Model\obj\Debug\HallBooking_Model.csprojAssemblyReference.cache
